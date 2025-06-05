@@ -39,4 +39,4 @@ Following pokemon can be seen by searching in the searchBar:
 
 
   # Screenshot 
-    ![image](https://github.com/user-attachments/assets/d36a4105-d89f-463b-9450-63e330643899)
+  ![image](https://github.com/vizz21/pokedex/blob/master/pokedex.png)
